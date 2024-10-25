@@ -1,19 +1,15 @@
 {
   "app": {
-    "title": "my-mini-app",
-    "headerTitle": "zmp-blank-templates",
-    "headerColor": "#1843EF",
+    "title": "Pango LocationShop",
+    "headerColor": "#ffffff",
     "textColor": "white",
-    "textAlign": "left",
-    "statusBarColor": "#1843EF",
-    "leftButton": "back",
-    "statusBar": "normal",
-    "actionBarHidden": false,
-    "hideAndroidBottomNavigationBar": false,
-    "hideIOSSafeAreaBottom": false
+    "statusBarColor": "#ffffff",
+    "leftButton": "none",
+    "selfControlLoading": false,
+    "hideIOSSafeAreaBottom": true,
+    "hideAndroidBottomNavigationBar": true
   },
   "debug": false,
-  "pages": [],
   "listCSS": [],
   "listSyncJS": [],
   "listAsyncJS": []
